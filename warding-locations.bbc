@@ -1,0 +1,52 @@
+[anchor=wards]
+One of the most crucial but least talked about parts of playing support is warding. Wards can keep your team safe, help your jungler counterjungle, and contribute to securing objectives. Knowing where to place your wards and what wards to place are both essential parts about playing in the bot lane.
+[br]
+[indent]
+[color=pink][h1]Get to Know Your Options[/h1][/color]
+There are a lot of options in the vision toolbox on summoner's rift, and it's important to know the value of types of vision from situation to situation.
+[table][tr padding=30][td]
+[center][color=yellow][h2]Stealth Ward[/h2][/color][/center]
+[icon=warding totem size=150][/td][td padding=10]
+The standard ward. 3 health, 10 gold bounty, comes in for free, stealths after a second. These are best for short spurts of hard-to-detect vision, such as before objective or protecting river from ganks. Careful not to place more than 3, or you will waste vision.
+[/td][/tr][br][tr padding=30][td]
+[center][color=red][h2]Control Ward[/h2][/color][/center]
+[icon = control ward size=150][/td][td padding=10]
+Control wards are a situational form of vision. They have 4 hit points compared to [[Warding Totem]]'s 3, and deny vision in an area around them, but cost 75 gold and give a 30 gold bounty. They're important, and I buy a few every game, but they're not to be wasted and need to be played around.
+[/td][/tr]
+[br][tr padding=30][td]
+[center][color=red][h2]Oracle Lens[/h2][/color][/center]
+[icon=oracle lens size=150][/td][td padding=10]
+Oracle Lens replaces your trinket and gives you a way to clear your opponent's vision without wasting [[Control Ward]]s. However, I would almost never recommend starting an [[Oracle Lens]] on supports as the early vision of [[Warding Totem]] is far stronger. However, I almost always switch over to it when I reach my first support item quest.
+[/td][/tr][tr][td]
+[center][color=cyan][h2]Farsight Alteration[/h2][/color][/center]
+[icon=farsight alteration size=150][/td][td padding=10]
+Farsight Alteration is a corner-case option. It allows you to place a ward from much, much further away, but it has 1 health and doesn't stealth. I recommend this if the enemy team is very good at controlling vision and the jungle is dark, or if you have low mobility and can't afford to go into the jungle to ward, or for easy deep vision.
+[/td][/tr][/table]
+[br]
+[color=pink][h1]Your First Ward[/h1][/color]
+[columns]
+[nextcol width=65%]
+Your first ward serves only one real purpose: to catch the enemy jungler on a level 2 gank. You'll be placing it at between 1:30 and 1:45, so you can get early vision on the enemy jungler. If you're on blue side, I recommend warding in the middle of river above the bush, near the on-ramp to red side's blue jungle. If you're on red side, I recommend warding blue side's tri-brush to catch their jungler. These wards are especially important if you're against a strong early jungler like [[Twitch]], [[Jarvan IV]], or [[Shaco]]. Of course, don't be afraid to use your first ward to push or defend against an invade if it's advantageous to your team.
+[nextcol]
+[img]https://i.imgur.com/Xs7xsGL.png[/img]
+[/columns]
+If you're not against a strong early jungler, or perhaps their jungler started on the opposite side of the map, you may consider saving your ward for an extra minute. This way, if you place it around 2:30, the ward will last until 4:00 which will be enough time to watch against all early ganks, and run up into the cooldown of your next ward.
+
+Quick side note: you can't force your ADC to ward, a lot of them just haven't mastered warding yet in favor of wave control tactics. You just have to play around this, get a feel for how and when they ward, and use their wards to your advantage.
+[br]
+[color=pink][h1]Laning Phase[/h1][/color]
+[columns]
+[nextcol width=65%]
+In the laning phase, your wards should aim to prevent successful ganks by your opponents, enable successful ganks by your team, and control objectives. To this extent, I recommend jungle tracking wards if you're in a place to deep ward, as they can spot the enemy jungler and allow your jungler to counterjungle or gank the opposite side of the map.
+[nextcol width=35%]
+[img width=575]https://i.imgur.com/2OIxBCj.png[/img]
+[/columns]
+I recommend [[Control Ward]]s in your tri-brush or the river brush, depending on which ward you can more easily protect. You can also place control wards in the back of dragon pit, forcing enemies to walk into the pit to remove it, allowing your team to mount a surprise attack. Otherwise, always keep vision in river, as it's the most popular gank path. If dragon is within 60 seconds of spawning an your team values it, ward dragon pit. You may have to choose which ward you need if you don't have an upgraded support item, but prioritize objectives over river vision. You can place shallow [[Warding Totem]]s at the mouth of dragon pit to see river and dragon at once. Once you have an upgraded support item, you can start placing more specialty wards to give your team more information.
+
+When aggressively warding on blue side, I love the spot behind the rock in red side's blue jungle that can see both gromp and the [[Blue Sentinel]]. On the red side, the brush right behind blue side's [[Red Brambleback]] can spot the jungler whether he's ganking mid or moving into river to take [[Rift Scuttler]] or counterjungle. Of course, defensively warding important parts of your jungle or the river entrances are great options if you're worried about your opponents taking your team's jungle camps or [[Rift Scuttler]].
+[br]
+[color=pink][h1]Mid/Late Game[/h1][/color]
+Mid and late game play out very similarly to laning phase, albeit more objective-focused. Concentrate on placing vision on objectives your team values, whether that's [[Drake]], [[Rift Herald]], or [[Baron Nashor]]. You should have [[Oracle Lens]] by now and hopefully at least the first quest completed on your support item. You may want to start considering alternative vision options. You may need [[Farsight Alteration]] if the jungle is too dangerous to enter, and you may need more or fewer [[Control Ward]]s, depending on how religiously the enemy team is clearing them.
+
+Make sure to ward objectives 60 to 45 seconds before the monster spawns, and not too early. [[Warding Totem]]s last between 90 and 120 seconds, depending on average champion levels, so it's important that the vision remains when the objective spawns and during any resulting skirmish. Similarly, use [[Oracle Lens]] to remove any vision set up by your opponents for the objective. Remember: it is generally too dangerous to go into a visionless jungle by yourself during the late game -- take someone with you!
+[/indent]

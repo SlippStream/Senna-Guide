@@ -1,0 +1,113 @@
+[anchor=abilities]
+[table]
+[tr]
+[td][center][icon=absolution size=100 border="4px solid #06e08c"][/center][/td]
+[/tr]
+[tr]
+[td][center][h1]ABSOLUTION [color=yellow](Passive)[/color][/h1][/center][/td]
+[/tr]
+[tr]
+[td][center][[Senna]] has a three-part passive, all of which are integral to how she plays.[/center][list]
+[*][color=yellow]WEAKENED SOUL[/color] - [[Senna]]'s basic attacks and on-hit abilities on enemy champions apply [color=#06e08c]Mist[/color] for 4 seconds. [[Senna]]'s next basic attack on-hit collects the [color=#06e08c]Mist[/color] and deals 1% − 16% (based on level) of [color=b80101]target's current health[/color] bonus [color=#bc9b56]physical damage[/color]. The same target cannot be collected more than once every few seconds.
+[indent]
+
+Enemy units that die near [[Senna]] have a chance to spawn a [color=#06e08c]Mist Wraith[/color] for 8 seconds, increased to 2 [color=#06e08c]Mist Wraiths[/color] for epic monsters. Senna can basic attack a Mist Wraith to destroy it, gaining 8 gold and collecting its [color=#06e08c]Mist[/color].
+[indent][list]
+[*][left]Enemy champions and large monsters are guaranteed.[/left]
+[*][left]Large minions that [[Senna]] does not kill are guaranteed.[/left]
+[*][left]Lesser minions and lesser monsters that [[Senna]] does not kill have a 28% chance to drop a [color=#06e08c]Mist Wraith[/color], otherwise a 10% chance.[/left]
+[/list][/indent]
+[/indent]
+
+[*][color=yellow]ABSOLUTION[/color] - Each stack of [color=#06e08c]Mist[/color] grants [[Senna]] [color=#bc9b56]0.75 bonus attack damage[/color]. For every 20 [color=#06e08c]stacks[/color], [[Senna]] also gains 20 bonus range and 10% critical strike chance. Upon exceeding 100% critical strike chance, [[Senna]] converts 35% of the excess into lifesteal.
+
+
+[*][color=yellow]RELIC CANNON[/color] - [[Senna]]'s basic attacks deal [color=#bc9b56]20% AD bonus physical damage[/color] on-hit and grant 10 / 15 / 20% of the [color=f9f8a7]target's movement speed[/color] as bonus movement speed for 0.5 seconds on-hit. [i][[Senna]] does 8.6% less (160% AD) critical damage[/i].
+[/list][/td][/tr]
+
+
+[tr][td][size=4]
+This is [[Senna]]'s engine for her gameplay. Part of her strength is her infinite scaling in her [color=#06e08c]Mist[/color] (Souls). [[Senna]] will passively get [color=#06e08c]souls[/color] in lane while her ADC farms, or off of a heavy leash. Where the bulk of your souls will come from, though, is from double-tapping enemy champions. We'll talk about the best ways to farm [color=#06e08c]souls[/color], but it's important to familiarize yourself with the timing on enemy champion between souls. [[Senna]] [i]needs[/i] [color=#06e08c]mist[/color] in lane or she will begin to fall off, since she is the only champion in the game that does not gain [color=#bc9b56]Attack Damage[/color] per level, similar to [[Thresh]]'s inability to gain armor per level.[br]
+[i]Note: winding up an auto attack on an enemy champion with [color=06e08c]mist[/color] will extend the timer if the [color=06e08c]mist[/color] is about to decay, so you'll never miss collecting it if you auto attack to pick it up.[/i]
+
+[[Senna]] has the longest auto attack animation in the game at 0.5 seconds at level 1. This is partially why [[Senna]] doesn't really build attack speed, because her base AS is so abysmal. However, on top of her [color=902b0d]Attack Speed[/color] scaling per level, her auto attack windup is reduced by 0-30% based on level, non-linearly. This means [[Senna]] gets a subtly larger amount of [color=902b0d]Attack Speed[/color] per level compared to other champions. This is especially important when you consider that [[Senna]]'s auto attacks deal 120% damage, even on non-crits, thanks to her [color=yellow]Relic Cannon[/color] passive.
+
+Also worth noting is the fact that [[Piercing Darkness]] applies on-hit effects, such as [[Glacial Augment]], [[Grasp of the Undying]], and [[Muramana]]. consider using the longer range (13 [[Teemo]]s) to proc important effects from a safe distance. 
+[/size][/td][/tr]
+[/table]
+[br]
+[center][img=https://i.imgur.com/tN6DDtP.png height=65][/center]
+[br]
+[table]
+[tr][td][center][icon=piercing darkness size=100 border="4px solid #06e08c"][/center][/td][/tr]
+[tr][td][center][h1]PIERCING DARKNESS [color=yellow](Q)[/color][/h1][/center][/td][/tr]
+[tr][td][center]After a brief delay, [[Senna]] fires a spectral laser in the direction of target unit, healing herself and allied champions for 40 / 60 / 80 / 100 / 120 [color=#bc9b56](+50% [b]bonus[/b] AD)[/color] [color=089bd6](+40% AP)[/color] (+160% Lethality) in a line, and dealing 40 / 70 / 100 / 130 / 160 [color=#bc9b56](+40% [b]bonus[/b] AD) physical damage[/color] to enemy minions and champions in a thinner line.
+
+Upon being struck, enemy turrets, wards, [color=#06e08c]Mist Wraiths[/color], and any other attack-interactive units are considered basic attacked once, while champions and turrets take on-hit effects.
+
+Basic attacks reduce [[Piercing darkness]]' cooldown by 1 second on hit.[/center][/td][/tr]
+
+[tr][td][br]
+[size=4]As [[Senna]], this ability is your bread and butter. Whether you're building normal AD, full support, hypercarry, or tank, you will max this ability first. It is a versatile heal and damage attack with insane range. Notably, both your heal and damage scale with [color=#bc9b56]AD[/color], giving you strong healing even if you focus on [color=#bc9b56]AD[/color] only, and the [color=089bd6]AP[/color] ratio on the heal makes [[Moonstone Renewer]] a more palatable buy, even without the passive.
+
+This is also a key part of farming [color=#06e08c]souls[/color], as it picks up all [color=#06e08c]souls[/color] hit and works well as a combo after an AA or [[Last Embrace]].[/size][/td][/tr]
+[/table]
+[br]
+[center][img=https://i.imgur.com/tN6DDtP.png height=65][/center]
+[br]
+[table]
+[tr][td][center][icon=last embrace size=100 border="4px solid #06e08c"][/center][/td][/tr]
+[tr][td][center][h1]LAST EMBRACE [color=yellow](W)[/color][/h1][/center][/td][/tr]
+[tr][td][center][[Senna]] throws a globule of Black Mist in the target direction, dealing 
+70 / 115 / 160 / 205 / 250 [color=#bc9b56](+70% [b]bonus[/b] AD) physical damage[/color] and sticking to the first enemy hit.
+
+After a 1 second delay or if when the target dies, the Black Mist spreads out of the target, rooting them and nearby enemy champions for 1.25 / 1.5 / 1.75 / 2 / 2.25 seconds.[/center][/td][/tr]
+
+
+[tr][td][br]
+[size=4][[Last Embrace]] will usually be the second ability you max. It's an extremely powerful trading tool during the laning phase as the range is deceptively long, and it scales very well with [color=#bc9b56]AD[/color]. Most of the time, you'll follow up on the root with an AA or a [[Piercing darkness]] to steal a [color=#06e08c]soul[/color].
+
+Remember, you get the root after 1 second or if the target [i]dies[/i] (this includes minions). Use this to 1-shot low-health lane minions for an instant AOE root and a great engage or easy getaway.[/size][/td][/tr]
+[/table]
+[br]
+[center][img=https://i.imgur.com/tN6DDtP.png height=65][/center]
+[br]
+
+[table]
+[tr][td][center][icon=curse of the black mist size=100 border="4px solid #06e08c"][/center][/td][/tr]
+[tr][td][center][h1]CURSE OF THE BLACK MIST [color=yellow](E)[/color][/h1][/center][/td][/tr]
+[tr][td][center]After a 1 second delay, [[Senna]] surrounds herself with an aura of mist and gains camouflage for a duration. [[Senna]]'s basic attacks and abilities briefly remove the effects of camouflage.
+
+Allied champions who enter the mist gain [color=af54f]Wraith Form[/color] equal to the remaining duration.
+
+[color=#af54f]WRAITH FORM[/color]: Gain camouflage. Enemies will gain obscured vision of the [color=#af54f]wraiths[/color] moving outside of the mist. Performing a basic attack or casting an ability removes [color=#af54f]Wraith Form[/color], which cannot be regained for 2 seconds.
+
+[[Senna]] and allies camouflaged by [[Curse of the black mist]] also gain 20% (+1% per 20 AP) bonus movement speed.[/center][/td][/tr]
+
+[tr][td][br]
+[size=4][[Curse of the black mist]] is perhaps [[Senna]]'s most complicated ability. Firstly, there are two different types of stealth in the ability, camouflage, and [color=#af54f]Wraith Form[/color]. [[Senna]] and allies in her radius are fully camouflaged and can't be seen. If [[Senna]]'s allies leave the radius, they become visible as [color=#af54f9]wraiths[/color]. Importantly, they are still unselectable/untargetable and their identities are masked. If you keep your allies in the mist's radius, your opponents won't know how many people you have. Use this the bring surprise multi-person ganks into other lanes. [color=red]You and your allies can be seen and identified with true sight. Beware of control wards[/color][/size][/td][/tr]
+
+[tr][td][size=4]
+You'll primarily be using [[curse of the black mist]] as a disengage tool because of the movement speed and untargetability. In lane, use it to protect your carry and make them untargetable, but keep in mind that they will become vulnerable if they attack or use abilities. However, that doesn't mean you should avoid using it mid-fight. Your allies still gain the movement speed, even if they break stealth, so long as they stay in the aura around you. This can mean a lot if you have an ADC like [[Draven]], so stick near them to give them an easy out or an aggressive in.
+
+Later in the game, use [[curse of the black mist]] to obscure your team in fights. Once an ally enters the radius, they become a [color=#af54f9]wraith[/color] for the full duration, even if they leave. Use it to keep the number identities of teammates with you obscured when scouting objectives or entering a fight.[/size][/td][/tr]
+[/table]
+[br]
+[center][img=https://i.imgur.com/tN6DDtP.png height=65][/center]
+[br]
+[table]
+[tr][td][center][icon=dawning shadow size=100 border="4px solid #06e08c"][/center][/td][/tr]
+[tr][td][center][h1]DAWNING SHADOW [color=yellow](R)[/color][/h1][/center][/td][/tr]
+[tr][td][center][[Senna]] fires two beams of spectral light in the target direction, the center beam deals 250 / 375 / 500 [color=#bc9b56](+100% [b]bonus[/b] AD)[/color] [color=089bd6](+70% AP)[/color] [color=#bc9b56]physical damage[/color] to enemy champions hit and afflicts them with [color=#06e08c]Mist[/color].
+
+The broad beam shields [[Senna]] and allied champions hit for 120 / 160 / 200 [color=089bd6](+40% AP)[/color] [color=06e08c](+1.5 per mist)[/color] for 3 seconds.
+
+[[Dawning Shadow]] also collects any [color=#06e08c]Mist Wraiths[/color] in its path.[/center][/td][/tr]
+
+[tr][td][br]
+[size=4][[Dawning Shadow]] is easily one of the strongest ultimates in the game. Being able to turn teamfights from across the map is incredibly powerful. Of course, this means you'll have to be keeping your eyes on the map and your allies' healthbars post-6, much like [[Soraka]]. Even if you don't land the damage beam, the shield could mean the difference for an ally in trouble.
+
+[[Dawning Shadow]]'s cooldown is excruciatingly long (160 seconds at rank 1), so try not to 'waste' it, but don't use that as an excuse to be too conservative. If you see an enemy recalling with near-0 health, ult them.
+
+Of course, the best application of [[Dawning Shadow]] is in teamfights. If you're in the backline (where you should be), it's easy to hit every teammate and most enemies with your ult. Your ult also consumes or applies [color=#06e08c]mist[/color] from enemy champions.[/size][/td][/tr]
+[/table]

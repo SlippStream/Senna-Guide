@@ -1,0 +1,852 @@
+
+
+[anchor=items]
+[center]
+Just like [[Senna]]’s rune pages, her build path is incredibly flexible depending on her situation and rune setup. Here I will explore most items you could build on [[Senna]], including some I think are red herrings. There will be three main paths, AD, Support, and Tank. These are in no way mutually exclusive and can be mixed. As an example, my staple build for [[Senna]] is AD ([[Duskblade of Draktharr]], [[Umbral Glaive]]). But, the three main paths are AD, Support, and Tank. I’ll address each build in more detail at the end of this chapter.
+[br]
+[i]Jump to [goto=startingitems]Starting Items[/goto], [goto=mythicoptions]Mythic Options[/goto], [goto=coreitems]Core Items[/goto], [goto=situationalitems]Situational Items[/goto], or [goto=boots]Boots[/goto].[/i]
+[br]
+[img=https://i.imgur.com/tN6DDtP.png height=65]
+[br]
+[anchor=startingitems][color=06e08c][b][size=7]STARTING ITEMS[/size][/b][/color]
+[columns]
+[nextcol width=60][goto=spectralsickle][img=https://www.mobafire.com/images/item/spectral-sickle.gif size=40][/goto]
+[nextcol width=60][goto=steelshoulderguards][img=https://www.mobafire.com/images/item/steel-shoulderguards.gif size=40][/goto]
+[/columns]
+[br]
+[anchor=spectralsickle]
+[table padding=10px border="2px solid #237666" border-radius=15px][tr][td width=40% right-border="1px dotted #237666"][icon=Spectral Sickle size=75][/td][td][color=39766a][size=5]Spectral Sickle[/size][/color]
+[i]Type: AD Starting Item
+Cost: 400 Gold[/i]
+[/td][/tr][tr][td right-border="1px dotted #39766a"]
+[left][size=3]
+[list]
+[*]+5 [color=bc9b56]Attack Damage[/color]
+[*]+2 gold per 10 seconds
+[*]+10 [color=1E925B]health[/color]
+[*]+25% [color=089bd6]base mana regeneration[/color]
+[/list]
+
+UNIQUE Passive - TRIBUTE: Grants a charge every 10 seconds. If an allied champion is nearby, damaging abilities and attacks against champions and buildings consume a charge, up to one per attack or cast. Consuming a charge grants 15 gold.
+[/size][/left]
+[/td][td padding=10px]
+[[Spectral Sickle]] Is what you’ll take in most games. It offers a decent chunk of flat [color=bc9b56]AD[/color] and lets you exploit your 600 base attack range for gold. I’d recommend this over [[Steel Shoulderguards]] in almost every situation. The 2 [color=bc9b56]AD[/color] boost over [[Steel Shoulderguards]] may not look like much, but that gap widens later on. Plus, this gives much-needed early game mana regen, letting you heal more and stay in lane longer.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=steelshoulderguards]
+[table padding=10px border="2px solid #aca137" border-radius=15px][tr]
+[td][color=#aca137][size=5]Steel Shoulderguards[/size][/color]
+[i]Type: AD Starting Item
+Cost: 400 Gold[/i][/td]
+[td width=40%][icon=steel shoulderguards size=75][/td][/tr][tr]
+[td]
+Although [[Spectral Sickle]] is superior most of the time, there are some scenarios in which [[Steel Shoulderguards]] are the better option. For example, if you’re against extreme poke (e.g. [[Caitlyn]]/[[Xerath]]) and you need a way to get gold without putting yourself in danger. Or, if you are unfortunate enough to be lagging past a playable state, these can help you get through laning phase. However, you will lose out on the mana regen from [[Spectral Sickle]], leaving you weaker early on.
+[/td][td]
+[left][size=3]
+[list]
+[*]+3 [color=bc9b56]Attack Damage[/color]
+[*]+2 gold per 10 seconds
+[*]+30 [color=1E925B]health[/color]
+[*]+25% [color=1E925B]base health regeneration[/color]
+[/list]
+[/left]
+[right]
+UNIQUE Passive - SPOILS OF WAR: Grants a charge every 45 seconds, up to 3 charges. Basic attacks can consume a charge to execute minions. Ranged basic attacks execute minions below 30% of their maximum health. Killing a minion by any means with a charge grants you and the nearest allied champion kill gold.
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[spoiler=Why not start Spellthief’s Edge?]
+Given that [[Senna]] has multiple [color=089bd6]AP[/color] ratios, some people like to buy either [[Spellthief’s Edge]] or [[Relic Shield]] as starting items. However, neither of these really give enough to ever be viable options for [[Senna]]. The extra mana regen on [[Spellthief’s Edge]] come the closest to making the cut, but because of [[Senna]]’s passive abusing raw [color=bc9b56]AD[/color], it’s never worth it to start an [color=089bd6]AP[/color] item, even if you intend to build a full support build.
+[/spoiler]
+[br]
+[img=https://i.imgur.com/tN6DDtP.png height=65]
+[br]
+[anchor=mythicoptions][color=06e08c][b][size=7]MYTHIC OPTIONS[/size][/b][/color]
+[columns]
+[nextcol width=60][goto=divinesunderer][img=https://www.mobafire.com/images/item/divine-sunderer.gif size=40][/goto]
+[nextcol width=60][goto=duskbladeofdraktharr][img=https://www.mobafire.com/images/item/duskblade-of-draktharr.gif size=40][/goto]
+[nextcol width=60][goto=eclipse][img=https://www.mobafire.com/images/item/eclipse.gif size=40][/goto]
+[nextcol width=60][goto=locketoftheironsolari][img=https://www.mobafire.com/images/item/locket-of-the-iron-solari.gif size=40][/goto]
+[nextcol width=60][goto=moonstonerenewer][img=https://www.mobafire.com/images/item/moonstone-renewer.gif size=40][/goto]
+[nextcol width=60][goto=frostfiregauntlet][img=https://www.mobafire.com/images/item/frostfire-gauntlet.gif size=40][/goto]
+[nextcol width=60][goto=krakenslayer][img=https://www.mobafire.com/images/item/kraken-slayer.gif size=40][/goto]
+[/columns]
+[br]
+[anchor=divinesunderer]
+[table padding=10px border="2px solid #E7D756" border-radius=15px][tr][td width=40%][icon=divine sunderer size=75 border="1px solid #FFD700" border-radius=4px][/td][td][color=#E7D756][size=5]Divine Sunderer[/size][/color]
+[i]Type: AD/Tank Mythic Option
+Cost: 3300 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+20 [icon=time]Ability Haste
+[*]+35 Attack Damage
+[*]+400 Health
+[/list]
+
+UNIQUE Passive – SPELLBLADE: After using an ability, your next basic attack within 10 seconds deals 9% of target's maximum health bonus physical damage on-hit, with a minimum damage equal to 150% of base AD and a maximum damage against monsters equal to 250% base AD. If the target is a champion, heal for 3.6% of the target's maximum health, with a minimum heal of 60% base AD (1.5 second cooldown)
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 5% armor penetration and 5% magic penetration.
+[/size][/left]
+[/td][td padding=10px]
+In season 10, the item that made tank [[Senna]] a thing was [[Frozen Mallet]] an item that gave AD, a ridiculous amount of health, and essentially gave you glacial augment for 3100 gold. Unfortunately, this season, we need a replacement. [[Divine Sunderer]], while it may not have the raw numbers, it still shares the utility of its predecessor. Gaining a [[Grasp of the Undying]] passive that stacks with [[Grasp of the Undying]] gives you more damage and sustain that you can reliably output. The armor and magic penetration on the mythic passive are largely just a bonus to the reliability that this item carries.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=duskbladeofdraktharr]
+[table padding=10px border="2px solid #a30c03" border-radius=15px][tr]
+[td][color=#a30c03][size=5]Duskblade of Draktharr[/size][/color]
+[i]Type: AD Mythic Option
+Cost: 3200 Gold[/i][/td]
+[td width=40%] [icon=duskblade of draktharr size=75 border="1px solid #FFD700" border-radius=4px][/td][/tr][tr]
+[td]
+This is my preferred mythic item for a standard AD build. [[Duskblade of Draktharr]] gives a nice chunk of AD and a hefty amount of ability haste, which is incredibly important for a caster ADC like [[Senna]]. The on-hit damage steroid is also appealing as it scales decently and can be used multiple times in a teamfight, with the added benefit of giving you an easy out if you need it. I prefer this to [[Eclipse]] for most of my games.
+[/td][td]
+[left][size=3]
+[list]
+[*]+55 [color=bc9b56]Attack Damage[/color]
+[*]+20 [icon=time]Ability Haste
+[*]+18 [color=902b0d]Lethality[/color]
+[/list]
+[/left]
+[right]
+
+UNIQUE Passive – NIGHTSTALKER: Basic attacking an enemy champion deals 100 (+ 30% bonus AD) bonus physical damage on-hit. (15 second cooldown) Champion takedowns within 3 seconds reset this effect's cooldown and grant you invisibility for 1.5 seconds.
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=eclipse]
+[table padding=10px border="2px solid #A91A66" border-radius=15px][tr][td width=40%][icon=eclipse size=75 border="1px solid #FFD700" border-radius=4px][/td][td][color=#A91A66][size=5]Eclipse[/size][/color]
+[i]Type: AD Mythic Option
+Cost: 3200 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+55 [color=bc9b56]Attack Damage[/color]
+[*]+10% Omnivamp
+[*]+18 Lethality
+[/list]
+
+UNIQUE Passive - EVER RISING MOON: Hitting an enemy champion with 2 separate attacks or abilities within 1.5 seconds deals 6% of target's maximum health as bonus physical damage and grants you 15% bonus movement speed and a 75 + 20% bonus AD shield for 2 seconds (16 second cooldown).
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 4% armor penetration.
+[/size][/left]
+[/td][td padding=10px]
+Many [[Senna]] players build this as a mythic most of the time. Generally, I prefer [[Duskblade of Draktharr]] as it gives more utility and is a safer item overall. However, in cases where you need raw power and sustain, you can do far worse than [[Eclipse]]. Do be careful though, while this item is incredibly powerful, it offers you and your ADC a very minimal amount of utility, and is first and foremost a damage item.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=locketoftheironsolari]
+[table padding=10px border="2px solid #f19d30" border-radius=15px][tr]
+[td][color=#f19d30][size=5]Locket of the Iron Solari[/size][/color]
+[i]Type: Tank/Support Mythic Option
+Cost: 2500 Gold[/i][/td]
+[td width=40%][icon=locket of the iron solari size=75 border="1px solid #FFD700" border-radius=4px][/td][/tr][tr]
+[td]
+[[Locket of the Iron Solari]] is an interesting item. It allows you to share some of your survivability with your team, giving all allies nearby a massive shield. I tend to neglect this item a bit on [[Senna]] but it's really useful in certain situations. If the enemy team has lots of AOE damage, or if your team is routinely bad at positioning, this item really shines. For example, if the enemy team keeps trying to combo [[Unstoppable Force]] into [[Bullet Time]] to annihilate your team, consider picking up a [[Locket of the Iron Solari]] to give your team a fighting chance.
+[/td][td]
+[left][size=3]
+[list]
+[*]+30 [color=e54e1e]Armor[/color]
+[*]+30 [color=ed6af4]Magic Resistance[/color]
+[*]+20 [icon=time]Ability Haste
+[*]+200 Health
+[/list]
+[/left]
+[right]
+UNIQUE Passive - CONSECRATE: Grant nearby allied champions 5 bonus armor and 5 bonus magic resistance.
+
+UNIQUE Active - DEVOTION: Grant nearby allies a 230 − 385 (based on target's level) shield that decays over 2.5 seconds (90 second cooldown).
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items to increase Consecrate's bonus resistances by 2.
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=moonstonerenewer]
+[table padding=10px border="2px solid #DCEAE1" border-radius=15px][tr][td width=40%][icon=moonstone renewer size=75 border="1px solid #FFD700" border-radius=4px][/td][td][color=#DCEAE1][size=5]Moonstone Renewer[/size][/color]
+[i]Type: Support Mythic Option
+Cost: 2500 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+40 Ability Power
+[*]+20 [icon=time]Ability Haste
+[*]+200 Health
+[*]+100% Base Mana Regeneration
+[/list]
+UNIQUE Passive - STARLIT GRACE: When affecting champions with attacks or abilities in combat, heal the nearby allied champion (excluding yourself) with the most missing health for 70 (2 second cooldown).
+Each second spent in combat with champions grants 6% heal and shield power, stacking up to 4 times for maximum of 30%
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 10 heal for this item's passive effect, Starlit Grace.
+[/size][/left]
+[/td]
+[td padding=10]
+[[Senna]], ideally, spends her time in the backline, dealing consistent damage and simultaneously healing and shielding her team. [[Moonstone Renewer]] gives you an additional, automatic healing outlet in teamfights. Since you don't need to play around your mythic item if you build this, you can instead focus on providing utility for your carries and poking down enemies.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=frostfiregauntlet]
+[table padding=10px border="2px solid #8EC7EF" border-radius=15px][tr]
+[td][color=#8EC7EF][size=5]Frostfire Gauntlet[/size][/color]
+[i]Type: Tank Mythic Option
+Cost: 2800 Gold[/i][/td]
+[td width=40%][icon=frostfire gauntlet size=75 border="1px solid #FFD700" border-radius=4px][/td][/tr][tr]
+[td]
+This item has been popular recently as a mythic item for tank [[Senna]], as it mimics some of the strength of [[Frozen Mallet]] from season 10. [[Frostfire Gauntlet]]'s snowbind passive has a decent slow on a relatively short cooldown, that you can proc from a safe distance. The immolate passive doesn't apply that often, but can do decent damage if you get jumped. The mythic passive here is actually very useful, giving you health and bonus size (which increases your auto range). I'd recommend this mythic if your team is diving frequently and needs to pin down a slippery target.
+[/td][td]
+[left][size=3]
+[list]
+[*]+25 [color=e54e1e]Armor[/color]
+[*]+25 [color=ed6af4]Magic Resistance[/color]
+[*]+20 [icon=time]Ability Haste
+[*]+350 Health
+[/list]
+[/left]
+[right]
+UNIQUE Passive - IMMOLATE: Taking or dealing damage activates this passive for 3 seconds. Deal 12 − 30 (based on level) (+ 1% bonus health) magic damage every second to enemies within 325 (+100% bonus size) units, increased by 25% against minions and 150% against monsters.
+
+UNIQUE Passive - SNOWBIND: Basic attacks create a 250 unit radius frost field that slows enemies within by 25% (+ 2% per 1000 maximum health) for 1.5 seconds (6 second cooldown [icon=time]).
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 100 bonus health and 6% increased size.
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=krakenslayer]
+[table padding=10px border="2px solid #DD932D" border-radius=15px][tr][td width=40%][icon=kraken slayer size=75 border="1px solid #FFD700" border-radius=4px][/td][td][color=#DD932D][size=5]Kraken Slayer[/size][/color]
+[i]Type: Hypercarry Mythic Option
+Cost: 3400 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+65 [color=#b54110]Attack Damage[/color]
+[*]+25 [icon=axe]Attack Speed
+[*]+20% Critical Strike Chance
+[/list]
+UNIQUE Passive - BRING IT DOWN: Basic attacks on-attack grant a stack for 3 seconds, up to 2 stacks. At 2 stacks, the next basic attack consumes all stacks on-attack to deal 60 (+ 45% bonus AD) bonus true damage on-hit.
+
+MYTHIC PASSIVE: Empowers each of your other Legendary items with 10% bonus [icon=axe]attack speed.
+[/size][/left]
+[/td]
+[td padding=10]
+[[Kraken Slayer]], since the beginning of season 11, has blown up in the [[Senna]] meta, and it's easy to see why. The raw AD this item offers, along with its attack speed mythic passive and tank-killing passive give [[Senna]] a lot of damage. The only problem I encounter with [[Kraken Slayer]] is the cost. 3400 gold is a lot for a support, and it often puts me behind trying to afford it. That said, it is incredibly strong and lets you backline effectively. Just remember that [[Guinsoo's Rageblade]]'s additional on-hit does not proc [[Kraken Slayer]]'s passive.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=coreitems][color=06e08c][b][size=7]CORE LEGENDARY ITEMS[/size][/b][/color]
+[columns]
+[nextcol width=60][goto=ardentcenser][img=https://www.mobafire.com/images/item/ardent-censer.gif size=40][/goto]
+[nextcol width=60][goto=blackcleaver][img=https://www.mobafire.com/images/item/black-cleaver.gif size=40][/goto]
+[nextcol width=60][goto=manamune][img=https://www.mobafire.com/images/item/manamune.gif size=40][/goto]
+[nextcol width=60][goto=staffofflowingwater][img=https://www.mobafire.com/images/item/staff-of-flowing-water.gif size=40][/goto]
+[nextcol width=60][goto=steraksgage][img=https://www.mobafire.com/images/item/steraks-gage.gif size=40][/goto]
+[nextcol width=60][goto=umbralglaive][img=https://www.mobafire.com/images/item/umbral-glaive.gif size=40][/goto]
+[nextcol width=60][goto=youmuusghostblade][img=https://www.mobafire.com/images/item/youmuus-ghostblade.gif size=40][/goto]
+[/columns]
+[br]
+[anchor=ardentcenser]
+[table padding=10px border="2px solid #e394aa" border-radius=15px][tr][td width=40%][icon=ardent censer size=75][/td][td][color=#e394aa][size=5]Ardent Censer[/size][/color]
+[i]Type: Support Core Item
+Cost: 2300 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+60 [color=089bd6]Ability Power[/color]
+[*]+10% Heal and Shield Power
+[*]+100% [color=089bd6]base mana regeneration[/color]
+[/list]
+
+UNIQUE Passive – SANCTIFY: Healing or shielding allied champions enhances you and them with 10% − 30% (based on target's level) bonus attack speed and 5 − 20 (based on target's level) bonus magic damage on-hit on basic attacks for 6 seconds.
+[/size][/left]
+[/td][td padding=10px]
+[[Ardent Censer]] is a fantastic second item if you're building support, because of its extremely powerful passive. The attack speed is important for a lot of team comps. Remember when building this to build the [[Forbidden Idol]] first as [[Amplifying Tome]]'s [color=089bd6]AP[/color] is negligible when compared to the 10% Heal and Shield power and 50% [color=089bd6]mana regen[/color] from [[Forbidden Idol]].
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=blackcleaver]
+[table padding=10px border="2px solid #c01128" border-radius=15px][tr]
+[td][color=#c01128][size=5]Black Cleaver[/size][/color]
+[i]Type: Tank Core Item
+Cost: 3300 Gold[/i][/td]
+[td width=40%][icon=black cleaver size=75][/td][/tr][tr]
+[td]
+[[Black Cleaver]] fills an interesting role for tank [[Senna]]’s build. It gives a modest amount of [color=bc9b56]AD[/color], a decent amount of [color=1E925B]health[/color], and an hefty 25 Ability Haste. This item allows [[Senna]] to take worse trades and still come out on top, still being able to heal with [[Piercing Darkness]] more often.[[Black Cleaver]] offers the stats tank [[Senna]] wants more efficiently than almost any other item. And though the Carve passive can be tough to stack, tank [[Senna]] can survive for long enough to brute force the armor shred.
+[/td][td]
+[left][size=3]
+[list]
+[*]+40 [color=bc9b56]Attack Damage[/color]
+[*]+25 [icon=time]Ability Haste
+[*]+300 [color=1E925B]Health[/color]
+[/list]
+[/left]
+[right]
+UNIQUE Passive - CARVE: Dealing physical damage to an enemy champion reduces their armor by 5% for 6 seconds, stacking up to 6 times for a maximum of 30%. Enemies with 6 stacks are [i]Shredded[/i].
+
+UNIQUE Passive – BUTCHER: Basic attacks on-hit and damaging abilities against fully [i]Shredded[/i] enemies deal bonus physical damage equal to 5% of their missing health, reduced to 2% of their missing health for damage over time effects (0.5 second cooldown [icon=time]).
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=manamune]
+[table padding=10px border="2px solid #94e9fd" border-radius=15px][tr][td width=40%][icon=manamune size=75][/td][td][color=#94e9fd][size=5]Manamune[/size][/color]
+[i]Type: Hypercarry Core Item
+Cost: 2400 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+15 [icon=time]Ability Haste
+[*]+35 [color=bc9b56]Attack Damage[/color]
+[*]+500 [color=089bd6]Mana[/color]
+[/list]
+
+UNIQUE Passive – AWE: Grants [color=bc9b56]bonus attack damage[/color] equal to [color=089bd6]2% maximum mana[/color].
+
+UNIQUE Passive – MANA CHARGE: Grants a charge every 8 seconds, up to 4 charges. Consumes a charge on-hit and whenever affecting an enemy or ally with an ability to grant 3 bonus mana, increased to 6 for champion targets, up to maximum of 360 bonus mana.
+
+Transforms into [[Muramana]] at +360 mana.
+[/size][/left]
+[/td][td padding=10px]
+I hesitated on calling this item a "core" item, but I've come to the conclusion that I build this often enough, and almost always as a first item, to give it that title. Unlike the other core items, with the ones you buy being dictated by your role in your team, whether or not you buy [[Manamune]] is dictated by your performance. I will almost never build a [[Tear of the Goddess]] while behind. If my ADC or I get killed early, and we need to play passive for the rest of the lane, even if I have [[Dark Harvest]], I will forgo a [[Manamune]]. You need to be able to play aggressively with this item (something you want to do anyway) to get stacks. But, if you get an early kill or can go even in lane, this item will give you ungodly stats and let you carry.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=staffofflowingwater]
+[table padding=10px border="2px solid #53CBFF" border-radius=15px][tr]
+[td][color=#53CBFF][size=5]Staff of Flowing Water[/size][/color]
+[i]Type: Support Core Item
+Cost: 2300 Gold[/i][/td]
+[td width=40%][icon=staff of flowing water size=75][/td][/tr][tr]
+[td]
+I consider [[Staff of Flowing Water]] a counterpart to [[Ardent Censer]] for a team that craves AP rather than attack speed. I generally end up building both, as the move speed on heal is good in and of itself, but be sure to consider which one your team needs first, and whether they even need both.
+[/td][td]
+[left][size=3]
+[list]
+[*]+50 Ability Power
+[*]+10% Heal and Shield Power
+[*]+100% Base Mana Regeneration
+[/left]
+[right]
+UNIQUE Passive - RAPIDS: Healing or shielding an ally grants you and them 20 ability haste[icon=time] and 25 − 45 (based on target's level) ability power for 3 seconds.[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=steraksgage]
+[table padding=10px border="2px solid #d95c28" border-radius=15px][tr][td width=40%][icon=sterak's gage size=75][/td][td][color=#d95c28][size=5]Sterak's Gage[/size][/color]
+[i]Type: AD/Tank Core Item
+Cost: 3100 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+50 [color=bc9b56]Attack Damage[/color]
+[*]+400 Health
+[/list]
+UNIQUE Passive - BLOODLUST: After dealing damage to or taking damage from an enemy champion, Heal power.png heal 1.2% of maximum health over 6 seconds. This stacks and refreshes per unique champion, up to 5 times for a maximum of healing 6% of maximum health over the duration.
+
+UNIQUE Passive – LIFELINE: If you would take damage that would reduce you below 30% of your maximum health, you first gain a shield that absorbs 200 damage for 5 seconds, increased by 4.8% maximum health per stack of Bloodlust, up to an increase of 24% maximum health at 5 Bloodlust stacks (60 second cooldown).
+[/size][/left]
+[/td]
+[td padding=10]
+Last season, [[Sterak's Gage]] was locked to melee champions. This season, however, we get access to it's sustainy goodness. The raw stats on offer here are ideal for tank [[Senna]], but the meat and potatoes of this item are the unique passives. Bloodlust gives you reliable healing that can keep you healthy, and Lifeline gives you a second chance if you misposition.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=umbralglaive]
+[table padding=10px border="2px solid #5a47df" border-radius=15px][tr]
+[td][color=#5a47df][size=5]Umbral Glaive[/size][/color]
+[i]Type: AD Core Item
+Cost: 2400 Gold[/i][/td]
+[td width=40%][icon=umbral glaive size=75][/td][/tr][tr]
+[td]
+I think this is one of, if not [i]the[/i] best item for [[Senna]]. The blackout passive letting you one-shot wards saves so much time off of her abysmal attack speed, and combos fantastically with [[Zombie Ward]]. The haste makes this a great second item. The raw [color=bc9b56]AD[/color] could just not be on this item and I'd still build it, but it works great for [[Senna]]'s scaling and auto attack passive. Simply put, unless you're building tank, build this. Even with a support focus, it offers so much utility for 2800 gold.
+[/td][td]
+[left][size=3]
+[list]
+[*]+50 [color=bc9b56]Attack Damage[/color]
+[*]+15 [icon=time]Ability Haste
+[*]+10 [color=902b0d]Lethality[/color]
+[/list]
+[/left]
+[right]
+UNIQUE Passive – BLACKOUT: When spotted by enemy wards or traps, gain Blackout over a 400-unit radius for 8 seconds (45 second cooldown). You disable surrounding wards, as well as expose and reveal stealthed wards and traps. The effects linger for 2 seconds after you walk away.
+
+UNIQUE Passive: Your basic attacks instantly kill revealed traps and deal triple damage to wards.
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=youmuusghostblade]
+[table padding=10px border="2px solid #d885e9" border-radius=15px][tr][td width=40%][icon=youmuu's ghostblade size=75][/td][td][color=#d885e9][size=5]Youmuu's Ghostblade[/size][/color]
+[i]Type: AD Core Item
+Cost: 2900 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+55 [color=bc9b56]Attack Damage[/color]
+[*]+15 [icon=time]Ability Haste
+[*]+18 [color=902b0d]Lethality[/color]
+[/list]
+UNIQUE Passive - HAUNT: +40 movement speed out-of-combat.
+
+UNIQUE Active - WRAITH STEP: Gain +20% movement speed and ghosting for 6 seconds (45 second cooldown).
+[/size][/left]
+[/td]
+[td padding=10]
+A perfect second or third item for [[Senna]]'s AD build, [[Youmuu's Ghostblade]] offers similar stats as [[Umbral Glaive]], but with a great set of passives to go with it. The out-of-combat movement speed lets you sweep objectives and get back to lane faster, allowing for easier roams and more flexible recall timings. It also give 18 [color=902b0d]Lethality[/color], more than most lethality items, which help you damage output. Most importantly, though, the active of this item can mean that you're never pushed too far up and gives you a slipperiness that [[Senna]] just isn't meant to have.
+[/td]
+[/tr]
+[/table]
+[br]
+[img=https://i.imgur.com/tN6DDtP.png height=65]
+[br]
+[anchor=situationalitems][color=06e08c][b][size=7]SITUATIONAL ITEMS[/size][/b][/color]
+[columns]
+[nextcol width=60][goto=deathsdance][img=https://www.mobafire.com/images/item/deaths-dance.gif size=40][/goto]
+[nextcol width=60][goto=edgeofnight][img=https://www.mobafire.com/images/item/edge-of-night.gif size=40][/goto]
+[nextcol width=60][goto=executionerscalling][img=https://www.mobafire.com/images/item/executioners-calling.gif size=40][/goto]
+[nextcol width=60][goto=guardianangel][img=https://www.mobafire.com/images/item/guardian-angel.gif size=40][/goto]
+[nextcol width=60][goto=hexdrinker][img=https://www.mobafire.com/images/item/hexdrinker.gif size=40][/goto]
+[nextcol width=60][goto=infinityedge][img=https://www.mobafire.com/images/item/infinity-edge.gif size=40][/goto]
+[nextcol width=60][goto=knightsvow][img=https://www.mobafire.com/images/item/knights-vow.gif size=40][/goto]
+[nextcol width=60][goto=lastwhisper][img=https://www.mobafire.com/images/item/last-whisper.gif size=40][/goto]
+[nextcol width=60][goto=thecollector][img=https://www.mobafire.com/images/item/the-collector.gif size=40][/goto]
+[/columns]
+[columns]
+[nextcol width=60][goto=mikaelsblessing][img=https://www.mobafire.com/images/item/mikaels-blessing.gif size=40][/goto]
+[nextcol width=60][goto=quicksilversash][img=https://www.mobafire.com/images/item/quicksilver-sash.gif size=40][/goto]
+[nextcol width=60][goto=rapidfirecannon][img=https://www.mobafire.com/images/item/rapid-firecannon.gif size=40][/goto]
+[nextcol width=60][goto=redemption][img=https://www.mobafire.com/images/item/redemption.gif size=40][/goto]
+[nextcol width=60][goto=spiritvisage][img=https://www.mobafire.com/images/item/spirit-visage.gif size=40][/goto]
+[nextcol width=60][goto=thornmail][img=https://www.mobafire.com/images/item/thornmail.gif size=40][/goto]
+[nextcol width=60][goto=stirringwardstone][img=https://www.mobafire.com/images/item/watchful-wardstone.gif size=40][/goto]
+[nextcol width=60][goto=guinsoosrageblade][img=https://www.mobafire.com/images/item/guinsoos-rageblade.gif size=40][/goto]
+[/columns]
+[br]
+[anchor=deathsdance]
+[table padding=10px border="2px solid #6c993f" border-radius=15px][tr][td width=40%][icon=death's dance size=75][/td][td][color=#6c993f][size=5]Death's Dance[/size][/color]
+[i]Type: AD/Tank Situational Item - [b]Delay Damage[/b]
+Cost: 3100 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+55 [color=bc9b56]Attack Damage[/color]
+[*]+15 [icon=time]Ability Haste
+[*]+45 [color=#e54e1e]Armor[/color][/list]
+UNIQUE Passive - IGNORE PAIN: Stores 15% of all post-mitigation physical damage received, which is successively taken as damage over time true damage instead, dealing one-third of the stored damage every second.
+
+UNIQUE Passive - DEFY: Champion takedowns grant you 30% bonus movement speed for 2 seconds, remove Ignore Pain's remaining damage, and heal you for 10% of your maximum health over the duration.
+[/size][/left]
+[/td]
+[td padding=10]
+I view [[Death's Dance]] as serving a similar purpose to [[Guardian Angel]], giving you protection if you get focused, and in this case, giving you time to reposition. However, this is a replacement for [[Guardian Angel]]; the [color=bc9b56]AD[/color] and utility of other items you miss out on is substantial. I build this instead of [[Guardian Angel]] if I'm ahead. The healing passive can keep you healthy very easily, and works great with [[Spirit Visage]] if you're building that.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=edgeofnight]
+[table padding=10px border="2px solid #8771b7" border-radius=15px][tr]
+[td][color=#8771b7][size=5]Edge of Night[/size][/color]
+[i]Type: AD Situational Item - [b]Anti-Burst[/b]
+Cost: 2900 Gold[/i][/td]
+[td width=40%][icon=edge of night size=75][/td][/tr][tr]
+[td]
+Similarly to [[Guardian Angel]], this is an item that, while I call it a situational item, I build very frequently. The survivablity this item gives you is small, but the [color=E95E48]lethality[/color], combined with the 50 raw [color=bc9b56]AD[/color] help scale you pretty well. But the real reason to buy this item is the spell shield passive. Being able to negate any CC or burst ability is invaluable, which is why I build this even when the enemy team is not fully stacked with immobilizing effects.
+[/td][td]
+[left][size=3]
+[list]
+[*]+50 [color=bc9b56]Attack Damage[/color]
+[*]+325 [color=1E925B]Health[/color][/list]
+[/left]
+[right]
++10 [color=E95E48]Lethality[/color]
+
+UNIQUE Passive – ANNUL: Grants a spell shield that blocks the next enemy ability. This shield refreshes after no damage is taken from enemy champions for 40 seconds.[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=executionerscalling]
+[table padding=10px border="2px solid #AAE219" border-radius=15px][tr][td width=40%][icon=executioners calling size=75][space][icon=chempunk chainsword size=75][/td][td][color=#AAE219][size=5]Executioner’s Calling [i](Chempunk Chainsword)[/i][/size][/color]
+[i]Type: Situational Item - [b]Anti-Heal[/b]
+Cost: 800 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+15 [color=bc9b56]Attack Damage[/color]
+[/list]
+UNIQUE Passive - REND: Dealing physical damage to enemy champions inflicts them with 40% Grievous Wounds for 2 seconds.
+[/size][/left]
+[/td]
+[td padding=10]
+A fantastic counterplay item that you’ll often grab on your first back depending on your lane opponent. ADCs often don’t want to spend their gold itemizing against the enemy botlane, lucky you. But you get the Grevious Wounds item that only costs 800. Buy this early if you’re into a [[Yuumi]], [[Soraka]], or [[Nami]] to make the lane much easier. Hold onto [[Executioners Calling]] and build it into [[Chempunk Chainsword]] as a final item later on.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=guardianangel]
+[table padding=10px border="2px solid #fdd64d" border-radius=15px][tr]
+[td][color=#fdd64d][size=5]Guardian Angel[/size][/color]
+[i]Type: AD/Tank Situational Item - [b]Anti-Assassin[/b]
+Cost: 2800 Gold[/i][/td]
+[td width=40%][icon=guardian angel size=75][/td][/tr][tr]
+[td]
+This is an incredibly strong item on any ADC, but it thrives especially on tank [[Senna]]. Normally, [[Senna]] wants to play behind her team, but tank [[Senna]] can afford to step into the fray more often, and risks getting bursted in the process. That’s where [[Guardian Angel]] steps in, letting Senna’s team punish the enemy’s cooldowns in fights while she revives. The main problem with [[Guardian Angel]] on most ADCs is that any well-positioned carry dies last, making the revive camped and pointless. But with tank [[Senna]], I like this item enough to give it a slot here if you need a second chance.
+[/td][td]
+[left][size=3]
+[list]
+[*]+40 [color=bc9b56]Attack Damage[/color]
+[*]+40 [color=#e54e1e]Armor[/color][/list]
+[/left]
+[right]
+UNIQUE Passive - REBIRTH: Upon taking lethal damage, resurrects and restores 50% of base health and 30% of maximum mana after 4 seconds of Stasis icon stasis (300 second cooldown).[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=hexdrinker]
+[table padding=10px border="2px solid #d95c28" border-radius=15px][tr][td width=40%][icon=hexdrinker size=75][space][icon=maw of malmortius size=75][/td][td][color=#d95c28][size=5]Hexdrinker [i](Maw of Malmortius)[/i][/size][/color]
+[i]Type: Situational Item - [b]Anti-Mage[/b]
+Cost: 1300 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+20 [color=bc9b56]Attack Damage[/color]
+[*]+35 [color=ed6af4]Magic Resistance[/color]
+[/list]
+UNIQUE Passive – LIFELINE: If you would take magic damage that would reduce maximum health below 30%, you first gain a shield that absorbs 110 − 280 (based on level) magic damage for 5 seconds (90 second cooldown).
+[/size][/left]
+[/td]
+[td padding=10]
+Sometimes, you’re playing against a double AP botlane; recently, [[Ziggs]] has been seeing a lot of play as an ADC, mixing up the traditional damage types seen in the botlane. If that’s the case, or a majority of the enemy team deals magic damage, consider purchasing an early [[Hexdrinker]]. It’s extremely gold-efficient, and the passive can save you in situations where you facing large amounts of magic damage. As with [[Executioners Calling]], there’s no need to rush building this into a [[Maw of Malmortius]] — focus on your core.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=infinityedge]
+[table padding=10px border="2px solid #d6d27d" border-radius=15px][tr]
+[td][color=#d6d27d][size=5]Infinity Edge[/size][/color]
+[i]Type: AD Situational Item - [b]Bigger Crits[/b]
+Cost: 3400 Gold[/i][/td]
+[td width=40%][icon=infinity edge size=75][/td][/tr][tr]
+[td]
+Some people consider this a core item, but I disagree. [[Senna]] does not build crit because her critical strikes do reduced damage and she gets crit chance over time anyway. Since this item functions at a lower capacity before you have 60% crit chance, it doesn’t do much for you early on, given that you don’t really build crit. However, once your passive plus IE gets you to 60% critical strike chance (80 souls), I think it’s a great choice to scale your damage.
+[/td][td]
+[left][size=3]
+[list]
+[*]+70 [color=bc9b56]Attack Damage[/color]
+[*]+20% Critical Strike Chance[/list]
+[/left]
+[right]
+UNIQUE Passive - PERFECTION: Gain 35% bonus critical strike damage if you have at least 60% critical strike chance.[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=knightsvow]
+[table padding=10px border="2px solid #00a9b1" border-radius=15px][tr][td width=40%][icon=knight's vow size=75][/td][td][color=#00a9b1][size=5]Knight’s Vow[/size][/color]
+[i]Type: Tank Situational Item - [b]Damage Redirect[/b]
+Cost: 2300 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+10 [icon=time]Ability Haste
+[*]+300% [color=1E925B]Base Health Regeneration[/color]
+[*]+400 [color=1E925B]Health[/color]
+[/list]
+UNIQUE Passive- SACRIFICE: While your Worthy ally is nearby, redirect 15% of the damage they take to you, stops if you are below 30% of your maximum health, and if they are below 50% of their maximum health, gain 35% bonus movement speed while moving towards them.
+
+UNIQUE Active - PLEDGE: Designate an allied champion as Worthy, forming a tether between you and them. Champions can only be designated as Worthy by one Knight’s Vow at a time (60 second cooldown).
+[/size][/left]
+[/td]
+[td padding=10]
+[[Senna]], being an ADC, can do her fair share of carrying, but this won’t happen every game. Sometimes, it’s better to funnel your resources into your carry instead. Enter [[Knight's Vow]], a solid stats item for tank or support [[Senna]] that lets you peel for your carry without having to do anything. If they’re doing their job, you should heal more than you take with this item. Just remember to stay with your partner to maximize both of your survivabilities.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=lastwhisper]
+[table padding=10px border="2px solid #af8665" border-radius=15px][tr]
+[td][color=#af8665][size=5]Last Whisper [i](Serylda’s Grudge)[/i][/size][/color]
+[i]Type: AD Situational Item - [b]Armor Pen[/b]
+Cost: 1450 Gold[/i][/td]
+[td width=40%][icon=last whisper size=75][space][icon=serylda's grudge size=75][/td][/tr][tr]
+[td]
+Just like [[Executioners Calling]] and [[Hexdrinker]], [[Last Whisper]] is a great early situational item on [[Senna]], specifically into tankier matchups. Although this would be a fine buy if you’re just worried about a tanky support like [[Tahm Kench]] or [[Sett]], I usually only buy this if I’m into a team with at least 3 tanks. If I load into a game and see a [[Ornn]] top, [[Trundle]] jungle, and [[Alistar]] support, I tend to buy this as soon as I can.
+[/td][td]
+[left][size=3]
+[list]
+[*]+20 [color=bc9b56]Attack Damage[/color]
+[*]+20% armor penetration[/list]
+[/left]
+[right]
+[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=mikaelsblessing]
+[table padding=10px border="2px solid #d5ebd3" border-radius=15px][tr][td width=40%][icon=mikael's blessing size=75][/td][td][color=#d5ebd3][size=5]Mikael's Blessing[/size][/color]
+[i]Type: Support Situational Item - [b]Anti-CC[/b]
+Cost: 2300 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+15 [icon=time]Ability Haste
+[*]+20% Heal and Shield Power
+[*]+50 [color=ed6af4]Magic Resistance[/color]
+[*]+100% [color=089bd6]Base Mana Regeneration[/color]
+[/list]
+UNIQUE Active = PURIFY: Remova all crowd control debuffs from yourself or an allied champion and heal the target for 100-200 (based on target's level) (120 second cooldown)
+[/size][/left]
+[/td]
+[td padding=10]
+Because ADCs will only buy a [[Quicksilver Sash]] when absolutely necessary, you can use this item as a roundabout way to clear CC off of your carry. If the enemy team keeps gunning for your ADC so they can [[Nether Grasp]] or [[Last Breath]] or whatever, you can peel for them and keep them safe. Plus, the 20% heal and shield power doesn't hurt your ability to heal your allies. I'm also a fan of how this item doesn't waste your gold on AP, and instead gives you haste and MR, two stats that can be actually useful.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=quicksilversash]
+[table padding=10px border="2px solid #c4d8df" border-radius=15px][tr]
+[td][color=#c4d8df][size=5]Quicksilver Sash [i](Mercurial Scimitar)[/i][/size][/color]
+[i]Type: Situational Item - [b]Anti-CC[/b]
+Cost: 1300 Gold[/i][/td]
+[td width=40%][icon=quicksilver sash size=75][space][icon=mercurial scimitar size=75][/td][/tr][tr]
+[td]
+Adjacently to [[Mikael's Blessing]], sometimes the one getting focused with lockdown CC is you. This item is great if you're being constantly run down by a [[Mordekaiser]] trying to fight you in his [[Realm of Death]]. Just like the other early situational items, though, hold off on upgrading it until you've finished your core build.
+[/td][td]
+[left][size=3]
+[list]
+[*]+30 [color=ed6af4]Magic Resistance[/color][/list]
+[/left]
+[right]
+UNIQUE Active – QUICKSILVER: Removes all crowd control debuffs from your champion (90 second cooldown).[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=rapidfirecannon]
+[table padding=10px border="2px solid #cb260e" border-radius=15px][tr][td width=40%][icon=rapid firecannon size=75][/td][td][color=#cb260e][size=5]Rapid Firecannon[/size][/color]
+[i]Type: AD Situational Item - [b]Extra Range[/b]
+Cost: 2500 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+30% [icon=axe]Attack Speed
+[*]+20% Critical Strike Chance
+[*]+7% Movement Speed
+[/list]
+UNIQUE Passive – ENERGIZED: Moving and basic attacking generates Energize stacks, up to 100.
+
+UNIQUE Passive – SHARPSHOOTER: When fully Energized, your next basic attack deals 120 bonus magic damage on-hit. Energized attacks gain 35% bonus range (+150 range maximum).
+[/size][/left]
+[/td]
+[td padding=10]
+A lot of [[Senna]]s build this item as core. I disagree, but it does have its uses. My main problem with [[Rapid Firecannon]] is that it falls off. The crit chance will eventually be overshadowed by [[Senna]]'s built in scaling, and the attack speed doesn't scale that well. However, the +150 range is very useful if you need to play back or chase, and the crit chance helps a bit during the early game. Ultimately, I'd only build this if I was ahead, and I'd probably sell it later on for something like [[Infinity Edge]], but it provides a nice boost early.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=redemption]
+[table padding=10px border="2px solid #d2dbec" border-radius=15px][tr]
+[td][color=#d2dbec][size=5]Redemption[/size][/color]
+[i]Type: Support Situational Item - [b]AOE Heal[/b]
+Cost: 2300 Gold[/i][/td]
+[td width=40%][icon=redemption size=75][/td][/tr][tr]
+[td]
+Support [[Senna]] is a build focused around peeling for your teamates and enabling them. Often, this is purely based around [[Piercing Darkness]]'s heal and [[Dawning Shadow]]'s shield, but sometimes you need a way to impact the game outside your of your abilities. [[Redemption]] gives you the utility that [[Senna]] doesn't have built-in, allowing you more teamfight pressure than you'd normally have. Build this if you find your team skirmishing often, or if you need extra pressure to turn big fights.
+[/td][td]
+[left][size=3]
+[list]
+[*]+15 [icon=time]Ability Haste
+[*]+20% Heal and Shield Power
+[*]+200 [color=1E925B]Health[/color]
+[*]+100% [color=089bd6]Base Mana Regeneration[/color][/list]
+[/left]
+[right]
+UNIQUE Active - INTERVENTION:  You reveal the target area for 3 seconds. After a 2.5 second delay, a beam of light strikes the ground. Allies within the area are healed for 200 − 400 (based on target's level), while enemy champions take 10% of target's maximum health true damage (90 second cooldown). [b]Can be used while dead.[/b][/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=spiritvisage]
+[table padding=10px border="2px solid #b2e314" border-radius=15px][tr][td width=40%][icon=spirit visage size=75][/td][td][color=#b2e314][size=5]Spirit Visage[/size][/color]
+[i]Type: Tank Situational Item - [b]Healing Amp[/b]
+Cost: 2900 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+10 [icon=time]Ability Haste
+[*]+450 [color=1E925B]Health[/color]
+[*]+100% [color=1E925B]Base Health Regeneration[/color]
+[*]+40 [color=ed6af4]Magic Resistance[/color]
+[/list]
+UNIQUE Passive - BOUNDLESS VITALITY: Increases all healing and shielding received by 25%
+[/size][/left]
+[/td]
+[td padding=10]
+Although it packs quite a bit of [color=ed6af4]Magic Resistance[/color], I don't really think of [[Spirit Visage]] as an [color=ed6af4]MR[/color] item. I mean, I wouldn't build it into an AD-only team, but I don't hyperfocus on countering magic damage with it. Instead, I buy [[Spirit Visage]] for its passive. With just this item and [[Piercing Darkness]], your self-heal is increased drastically; if you have another healer on your team, this item starts to quickly pay for itself. It hardly even matters that it has CDR and 450 bonus health. Pick this up if the enemy has some AP and you need more sustain.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=thornmail]
+[table padding=10px border="2px solid #aa183d" border-radius=15px][tr]
+[td][color=#aa183d][size=5]Bramble Vest [i](Thornmail)[/i][/size][/color]
+[i]Type: Tank Situational Item - [b]Anti-AA[/b]
+Cost: 800 Gold[/i][/td]
+[td width=40%][icon=bramble vest size=75][space][icon=thornmail size=75][/td][/tr][tr]
+[td]
+[[Bramble Vest]] is the poster child for anti AD, anti-healing items, giving a good chunk of [color=e54e1e]Armor[/color] and a passive that heavily disadvantages ADCs like [[Draven]] and bruisers like [[Fiora]]. You should know that [[Bramble Vest]] should only be built when you need to counter an ADC's slef-healing or a fed bruiser, and I'd generally recommend another armor-heavy item like [[Frozen Heart]] to counter fed AD champs more. But, against self-healers, it's a great item that doesn't require you go out of your way to counterplay. 
+[/td][td]
+[left][size=3]
+[list]
+[*]+30 [color=e54e1e]Armor[/color][/list]
+[/left]
+[right]
+UNIQUE Passive – THORNS: Upon being hit by a basic attack on-hit, deal 3 magic damage to the attacker and, if they are a champion, inflict them with 40% Grievous Wounds for 2 seconds.[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=stirringwardstone]
+[table padding=10px border="2px solid #0EE284" border-radius=15px][tr][td width=40%][icon=watchful wardstone size=75][space][icon=vigilant wardstone size=75][/td][td][color=#0EE284][size=5]Watchful [i](Vigilant)[/i] Wardstone[/size][/color]
+[i]Type: Situational Item - [b]Vision Control[/b]
+Cost: 1100 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+150 Health
+[*]+10 Ability Haste[icon=time]
+[/list]
+
+UNIQUE Passive - ARCANE CACHE: This item can store up to 3 purchased [[Control Ward]]s.
+
+UNIQUE Passive - BLOOMING EMPIRE: Reaching level 13 and completing your support item quest into [[Vigilant Wardstone]].
+[/size][/left]
+[/td]
+[td padding=10]
+Thanks to the patch 11.11 changes to this item, I consider it a must-build 3rd item for almost every [[Senna]] build. Once it transforms into [[Vigilant Wardstone]], it gives you 5 extra ability haste, along with a bonus 12% to AD, AP, Health, and Ability Haste. At 3rd item, nothing gives you as many stats as this does for only 1100 gold. Not to mention it enables a much stronger vision game, which will indirectly help your team. Almost always buy this as it stands right now.
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=guinsoosrageblade]
+[table padding=10px border="2px solid #B82000" border-radius=15px][tr]
+[td][color=#B82000][size=5]Guinsoo's Rageblade[/size][/color]
+[i]Type: Hypercarry Situational Item - [b]On-Hit Damage[/b]
+Cost: 2600 Gold[/i][/td]
+[td width=40%][icon=guinsoo's rageblade size=75][/td][/tr][tr]
+[td]
+Even after the v11.5 changes, [[Guinsoo's Rageblade]] remains an incredibly strong item on [[Senna]]. Because of your innate crit scaling, you can get ever increasing amounts of on-hit damage (which also applies on [[Piercing Darkness]]). Even if you don't build other crit items, this item can be a powerhouse late-game, which is usually when I pick it up.
+[/td][td]
+[left][size=3]
+[list]
+[*]+45% [icon=axe]Attack Speed
+[*]+20% Critical Strike Chance[/list]
+[/left]
+[right]
+UNIQUE Passive – WRATH: Convert every 1% critical strike chance into 2 bonus physical damage on-hit, capped at 100% critical strike chance, for a maximum of 200 bonus physical damage on-hit. This damage is affected by critical strike modifiers.
+
+UNIQUE Passive - SEETHING STRIKE: Basic attacks on-attack grant a stack for 6 seconds, up to 2 stacks. At 2 stacks, the next basic attack consumes all stacks on-attack to trigger a Phantom Hit that applies on-hit effects to the target at 100% effectiveness after a 0.15 second delay.[/size][/right]
+[/td]
+[/tr]
+[/table]
+[br]
+[anchor=thecollector]
+[table padding=10px border="2px solid #58E9DF" border-radius=15px][tr][td width=40%][icon=the collector size=75][/td][td][color=#58E9DF][size=5]The Collector[/size][/color]
+[i]Type: AD Situational Item - [b]Execution[/b]
+Cost: 3000 Gold[/i]
+[/td][/tr][tr][td]
+[left][size=3]
+[list]
+[*]+55 [color=#b54110]Attack Damage[/color]
+[*]+20% Critical Strike Chance
+[*]+12 Lethality[/list]
+
+UNIQUE Passive - DEATH AND TAXES: If you deal post-mitigation damage that would leave a champion below 5% of their maximum health, execute them. Champion kills grant you an additional 25 Gold.
+[/size][/left]
+[/td]
+[td padding=10]
+Sometimes, you leave laning phase as the fed one. That's great, but [[Senna]]'s weak mid-game still rears its head. When you need to keep your lead strong, [[The Collector]] works perfectly to keep you snowballing over your opponents. It has pretty good raw AD and lethality, which is what we look for, and the execution passive gives you a bit more dominance in picks.
+[/td]
+[/tr]
+[/table]
+[br]
+[img=https://i.imgur.com/tN6DDtP.png height=65]
+[br]
+[anchor=boots][color=06e08c][b][size=7]BOOTS[/size][/b][/color]
+[columns]
+[nextcol width=60][goto=bootsofswiftness][img=https://www.mobafire.com/images/item/boots-of-swiftness.gif size=40][/goto]
+[nextcol width=60][goto=ionianbootsoflucidity][img=https://www.mobafire.com/images/item/ionian-boots-of-lucidity.gif size=40][/goto]
+[nextcol width=60][goto=platedsteelcaps][img=https://www.mobafire.com/images/item/plated-steelcaps.gif size=40][/goto]
+[nextcol width=60][goto=mercurystreads][img=https://www.mobafire.com/images/item/mercurys-treads.gif size=40][/goto]
+[/columns]
+[br]
+[columns]
+[nextcol width=45%]
+[table height=300 padding=10px border="2px solid #B1210F" border-radius=15px][tr][td]
+[icon=plated steelcaps size=50]
+[color=#B1210F][size=5]Plated Steelcaps[/size][/color]
+[i]Cost: 1100 — (Armor, AA Damage Reduction)[/i]
+[br]
+These are great if you’re facing a team or even a botlane that does a lot of auto attack damage. Don’t buy these just for the armor, exploit the passive. If physical damage is your problem itemize some situational items in. Don’t be afraid to build these out of fear of missing out on other boots, the proper resistance boots will help you more.
+[/td][/tr][/table]
+[nextcol width=40]
+[nextcol width=45%]
+[table height=300 padding=10px border="2px solid #53c0e3" border-radius=15px][tr][td]
+[icon=mercury's treads size=50]
+[color=#53c0e3][size=5]Mercury’s Treads[/size][/color]
+[i]Cost: 1100 — (Magic Resist, Tenacity)[/i]
+[br]
+These are great boots into a support or ADC (or both) with a lot CC. Getting out of a [[Nautilus]] root even 200 milliseconds faster is a big deal. Like [[Plated Steelcaps]], don’t just buy these for the MR, buy for the tenacity. Don’t be afraid to build these out of fear of missing out on other boots, the proper resistance boots will help you more.
+[/td][/tr][/table]
+[/columns]
+[br]
+[columns]
+[nextcol width=45%]
+[table height=300 padding=10px border="2px solid #5CE9C3" border-radius=15px][tr][td]
+[icon=ionian boots of lucidity size=50]
+[color=#5CE9C3][size=5]Ionian Boots of Lucidity[/size][/color]
+[i]Cost: 950 — (Ability Haste, Summoner Spell Haste)[/i]
+[br]
+These are the strongest boots on [[Senna]]. Allowing you to get your [[Piercing Darkness]] more often significantly increases your damage output. Plus, the summoner spell haste isn’t much, but it chops 30 seconds off of [[Flash]], so it’s not nothing.
+[/td][/tr][/table]
+[nextcol width=40]
+[nextcol width=45%]
+[table height=300 padding=10px border="2px solid #71adbc" border-radius=15px][tr][td]
+[icon=boots of swiftness size=50]
+[color=#71adbc][size=5]Boots of Swiftness[/size][/color]
+[i]Cost: 900 — (Enhanced movement, Slow resist)[/i]
+[br]
+These are probably [[Senna]]’s most consistent boots and are never a bad purchase. The movement speed lets you kite easily and the slow resist is stronger than a lot of people realize. However, if you’re into a team with no slows and you don’t need [[Plated Steelcaps]] or [[Mercury's Treads]], opt for [[Ionian Boots of Lucidity]] instead.
+[/td][/tr][/table]
+[/columns]
+[br]
+[h1]About [[Berserker's Greaves]][/h1][/center]
+[br]
+Some [[Senna]]s build [[Berserker's Greaves]] instead of [[Ionian Boots of Lucidity]] when they’re ahead. I generally disagree. In the early game [[Senna]] is a caster ADC, not a crit ADC — her power comes from her [[Piercing Darkness]], and having that more often is more important than poorly scaling attack speed. Even with [[Piercing Darkness]] lowering its cooldown on attack, the value you’ll get from [[Berserker's Greaves]] is purely damage, whereas [[Ionian Boots of Lucidity]] is damage and peel. Here's a demonstration of each boots' effect on [[Piercing Darkness]]' cooldown:
+[br][center][youtube]ZG3nZHYw0RU[/youtube][center][br] 
+Where [[Berserker's Greaves]] shine is at the point where your auto attacks do enough damage to offset the efficiency of your ability rotations. If you're fed early and want strong boots, I'd opt for [[Ionian Boots of Lucidity]] most of the time. You can always switch over to [[berserker's greaves] later if you find yourself needing an extra boost to you DPS.
+[br]
+[img=https://i.imgur.com/tN6DDtP.png height=65]
+[br]

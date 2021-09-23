@@ -1,0 +1,51 @@
+[anchor=tipsandtricks]
+
+[size=7][color=06e08c]Souls[/color][/size]
+[table width=100% padding=0px margin=0px border="3px solid #06e08c"][/table][br]
+[indent]
+Mist (souls) are incredibly important to [[Senna]]. With no AD per level scaling, they compensate you for stats you might be missing out on. To show you how important they are, we can do a little math to determine their worth.
+[spoiler=Warning: Math][indent]
+First, we need to calculate gold efficiency for Attack Damage, Critical Strike Chance, and Life Steal. We can use [[Long Sword]], [[Cloak of Agility]], and [[Vampiric Scepter]] for these calculations, as they are the cheapest item that gives their appropriate stat.
+[br]
+Given [[Long Sword]]'s 10 AD at 350 gold, we can calculate the gold per point of AD to be about 35.
+[img width=100%]https://i.imgur.com/ylwZzHN.png[/img]
+[br]
+Given [[Cloak of Agility]]'s 15% critical strike chance at 600 gold, we can calculate the gold per point of crit chance to be roughly 40.
+[img width=100%]https://i.imgur.com/pQ7Y3UA.png[/img]
+[br]
+Now, given the gold per AD is 35, we can use [[Vampiric Scepter]] to calculate the gold per point of life steal to be about 37.5.
+[img width=100%]https://i.imgur.com/xfbxthX.png[/img]
+[br]
+Okay, so with those numbers defined, we know each [color=06e08c]soul[/color] gives 0.75 AD, and that every twenty souls gives 10% critical strike chance and 20 attack range. We don't have a good metric for range as a stat, so we're not going to include it. It's not negligible, but the numbers without it are still pretty compelling. It's good to remember that 20 range per 20 [color=06e08c]souls[/color] is included on top of the numbers we're about to find. Anyway, since crit chance is something we have a metric for, we'll divide it by 20 to get the crit chance per [color=06e08c]soul[/color].
+[img width=100%]https://i.imgur.com/awP6Hrc.png[/img]
+[br]
+Finally, we can calculate the gold per soul using everything we've found. Note that [[Senna]] converts excess crit chance to life steal at a 35% conversion rate.
+[img width=100%]https://i.imgur.com/tbWnxoC.png[/img]
+[/indent][/spoiler]
+TL;DR, each [color=06e08c]soul[/color] [[Senna]] collects before she hits 100 crit chance is worth 46.25 gold in stats. After that point, they fall off in value to 32.81 gold per [color=06e08c]soul[/color]. It's important to keep this in mind when you're laning. On top of whatever gold you get from [[Spectral Sickle]], each proc of [[Absolution]] will give you more than 45 gold worth of stats, same goes for each [color=06e08c]soul[/color] you pick up manually.
+[br]
+This is also the reason I tend to not like crit items on late-game [[Senna]]. Her lifesteal conversion makes each point of life steal less valuable than the critical strike chance it could be, meaning that any item giving you crit chance past 100% is losing you money. Sometimes, this is worth it, like with [[Guinsoo's Rageblade]] or [[Infinity Edge]]. Other times, however, I will sell my unneeded crit items for more raw AD.
+[/indent]
+
+[size=7][color=06e08c]More About [[Vigilant Wardstone]][/color][/size]
+[table width=100% padding=0px margin=0px border="3px solid #06e08c"][/table][br]
+[indent]
+[[Vigilant Wardstone]] is not an item that sees a lot of play, but it has a lot more to offer than its playrate would imply. Notably, on top of increasing your ward counts by 1 and giving 150 health and 15 ability haste, gives 12% more AP, health, AH, and bAD. And, because it only costs 1100 gold, it can easily become more than 100% gold efficient.
+
+So, for the purpose of calculating gold efficiency, let's use the following build:
+[icon=black mist scythe size=50][icon=duskblade of draktharr size=50][icon=umbral glaive size=50][icon=infinity edge size=50][icon=boots of swiftness size=50] and, of course, [icon=vigilant wardstone size=50]
+
+Since the gold efficiency of [[Vigilant Wardstone]] varies based on when its built, lets assume we took no AD or Ability Haste in our runes, and we have no other buffs (dragons/passive/etc.). We'll also assume that we're level 13 and have [[Black Mist Scythe]] when we buy it so we get the bonuses.
+
+The base stats of wardstone are worth [b]800 gold[/b] [color=767522](400g of health [150] + 400g of AH [15])[/color]. So, at base, wardstone is [b]72.7% gold efficient.[/b]
+
+With just [[Black Mist Scythe]], the stats are worth [b]908 gold[/b] [color=767522](424g health [159] + 400.05g AH [15] + 84g AD [2.4])[/color].
+
+When built second item (After [[duskblade of draktharr]]), the stats total to [b]1232 gold[/b] [color=767522](400g health [150] + 496g AH [18.6] + 336g AD [9.6])[/color]. At this point, [[Vigilant Wardstone]] is already gold efficient, even without factoring [[Senna]]'s passive, but let's keep going.
+
+When built third (After [[Umbral Glaive]]), the stats are worth [b]1500 gold[/b] [color=767522](424g health [159] + 560g AH [20.4] + 526g AD [15.6])[/color] and is [b]136.4% gold efficient.[/b]
+
+When built last (After [[Infinity Edge]]), the stats are worth [b]1820 gold[/b] [color=767522](424g health [159] + 576g AH [21] + 820g AD [23.4])[/color] and is [b]165.5% gold efficient.[/b]
+
+TL;DR, [[Vigilant Wardstone]] is an incredibly efficient item even without [[Senna]]'s passive AD or the utility it offers to your team, and you should consider building it more often.
+[/indent]
