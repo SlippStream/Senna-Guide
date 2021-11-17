@@ -1,5 +1,3 @@
-
-
 [anchor=items]
 [center]
 Just like [[Senna]]’s rune pages, her build path is incredibly flexible depending on her situation and rune setup. Here I will explore most items you could build on [[Senna]], including some I think are red herrings. There will be three main paths, AD, Support, and Tank. These are in no way mutually exclusive and can be mixed. As an example, my staple build for [[Senna]] is AD ([[Duskblade of Draktharr]], [[Umbral Glaive]]). But, the three main paths are AD, Support, and Tank. I’ll address each build in more detail at the end of this chapter.
@@ -102,7 +100,7 @@ In season 10, the item that made tank [[Senna]] a thing was [[Frozen Mallet]] an
 [table padding=10px border="2px solid #a30c03" border-radius=15px][tr]
 [td][color=#a30c03][size=5]Duskblade of Draktharr[/size][/color]
 [i]Type: AD Mythic Option
-Cost: 3200 Gold[/i][/td]
+Cost: 3100 Gold[/i][/td]
 [td width=40%] [icon=duskblade of draktharr size=75 border="1px solid #FFD700" border-radius=4px][/td][/tr][tr]
 [td]
 This is my preferred mythic item for a standard AD build. [[Duskblade of Draktharr]] gives a nice chunk of AD and a hefty amount of ability haste, which is incredibly important for a caster ADC like [[Senna]]. The on-hit damage steroid is also appealing as it scales decently and can be used multiple times in a teamfight, with the added benefit of giving you an easy out if you need it. I prefer this to [[Eclipse]] for most of my games.
@@ -116,7 +114,7 @@ This is my preferred mythic item for a standard AD build. [[Duskblade of Draktha
 [/left]
 [right]
 
-UNIQUE Passive – NIGHTSTALKER: Basic attacking an enemy champion deals 100 (+ 30% bonus AD) bonus physical damage on-hit. (15 second cooldown) Champion takedowns within 3 seconds reset this effect's cooldown and grant you invisibility for 1.5 seconds.
+UNIQUE Passive – NIGHTSTALKER: Basic attacking an enemy champion deals 55 (+ 25% bonus AD) bonus physical damage on-hit. (15 second cooldown) Champion takedowns within 3 seconds reset this effect's cooldown and grant you invisibility for 1.5 seconds.
 
 MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste.
 [/size][/right]
@@ -127,7 +125,7 @@ MYTHIC PASSIVE: Empowers each of your other Legendary items with 5 ability haste
 [anchor=eclipse]
 [table padding=10px border="2px solid #A91A66" border-radius=15px][tr][td width=40%][icon=eclipse size=75 border="1px solid #FFD700" border-radius=4px][/td][td][color=#A91A66][size=5]Eclipse[/size][/color]
 [i]Type: AD Mythic Option
-Cost: 3200 Gold[/i]
+Cost: 3100 Gold[/i]
 [/td][/tr][tr][td]
 [left][size=3]
 [list]
@@ -141,7 +139,7 @@ UNIQUE Passive - EVER RISING MOON: Hitting an enemy champion with 2 separate att
 MYTHIC PASSIVE: Empowers each of your other Legendary items with 4% armor penetration.
 [/size][/left]
 [/td][td padding=10px]
-Many [[Senna]] players build this as a mythic most of the time. Generally, I prefer [[Duskblade of Draktharr]] as it gives more utility and is a safer item overall. However, in cases where you need raw power and sustain, you can do far worse than [[Eclipse]]. Do be careful though, while this item is incredibly powerful, it offers you and your ADC a very minimal amount of utility, and is first and foremost a damage item.
+Many [[Senna]] players build this as a mythic most of the time. Generally, I prefer [[Duskblade of Draktharr]] as it gives more utility and provides some escape potential. However, in cases where you need raw power and sustain, you can do far worse than [[Eclipse]]. I especially like [[Eclipse]] into tank matchups, as the armor penetration it provides is nothing to scoff at. However, no ability hast means this is first and foremost a damage/healing item.
 [/td]
 [/tr]
 [/table]
@@ -218,7 +216,7 @@ This item has been popular recently as a mythic item for tank [[Senna]], as it m
 [right]
 UNIQUE Passive - IMMOLATE: Taking or dealing damage activates this passive for 3 seconds. Deal 12 − 30 (based on level) (+ 1% bonus health) magic damage every second to enemies within 325 (+100% bonus size) units, increased by 25% against minions and 150% against monsters.
 
-UNIQUE Passive - SNOWBIND: Basic attacks create a 250 unit radius frost field that slows enemies within by 25% (+ 2% per 1000 maximum health) for 1.5 seconds (6 second cooldown [icon=time]).
+UNIQUE Passive - SNOWBIND: Basic attacks create a frost field for 1.5 seconds that deals 20-100 (+0.5% max health) magic damage to all enemies in the area. Enemies that move across the field are slowed. (6 second cooldown [icon=time]).
 
 MYTHIC PASSIVE: Empowers each of your other Legendary items with 100 bonus health and 6% increased size.
 [/size][/right]
@@ -398,7 +396,7 @@ UNIQUE Passive: Your basic attacks instantly kill revealed traps and deal triple
 [anchor=youmuusghostblade]
 [table padding=10px border="2px solid #d885e9" border-radius=15px][tr][td width=40%][icon=youmuu's ghostblade size=75][/td][td][color=#d885e9][size=5]Youmuu's Ghostblade[/size][/color]
 [i]Type: AD Core Item
-Cost: 2900 Gold[/i]
+Cost: 3000 Gold[/i]
 [/td][/tr][tr][td]
 [left][size=3]
 [list]
@@ -421,6 +419,7 @@ A perfect second or third item for [[Senna]]'s AD build, [[Youmuu's Ghostblade]]
 [br]
 [anchor=situationalitems][color=06e08c][b][size=7]SITUATIONAL ITEMS[/size][/b][/color]
 [columns]
+[nextcol width=60][goto=axiomarc][img=https://www.mobafire.com/images/item/axiom-arc.gif size=40][/goto]
 [nextcol width=60][goto=deathsdance][img=https://www.mobafire.com/images/item/deaths-dance.gif size=40][/goto]
 [nextcol width=60][goto=edgeofnight][img=https://www.mobafire.com/images/item/edge-of-night.gif size=40][/goto]
 [nextcol width=60][goto=executionerscalling][img=https://www.mobafire.com/images/item/executioners-calling.gif size=40][/goto]
@@ -429,9 +428,9 @@ A perfect second or third item for [[Senna]]'s AD build, [[Youmuu's Ghostblade]]
 [nextcol width=60][goto=infinityedge][img=https://www.mobafire.com/images/item/infinity-edge.gif size=40][/goto]
 [nextcol width=60][goto=knightsvow][img=https://www.mobafire.com/images/item/knights-vow.gif size=40][/goto]
 [nextcol width=60][goto=lastwhisper][img=https://www.mobafire.com/images/item/last-whisper.gif size=40][/goto]
-[nextcol width=60][goto=thecollector][img=https://www.mobafire.com/images/item/the-collector.gif size=40][/goto]
 [/columns]
 [columns]
+[nextcol width=60][goto=thecollector][img=https://www.mobafire.com/images/item/the-collector.gif size=40][/goto]
 [nextcol width=60][goto=mikaelsblessing][img=https://www.mobafire.com/images/item/mikaels-blessing.gif size=40][/goto]
 [nextcol width=60][goto=quicksilversash][img=https://www.mobafire.com/images/item/quicksilver-sash.gif size=40][/goto]
 [nextcol width=60][goto=rapidfirecannon][img=https://www.mobafire.com/images/item/rapid-firecannon.gif size=40][/goto]
@@ -441,6 +440,27 @@ A perfect second or third item for [[Senna]]'s AD build, [[Youmuu's Ghostblade]]
 [nextcol width=60][goto=stirringwardstone][img=https://www.mobafire.com/images/item/watchful-wardstone.gif size=40][/goto]
 [nextcol width=60][goto=guinsoosrageblade][img=https://www.mobafire.com/images/item/guinsoos-rageblade.gif size=40][/goto]
 [/columns]
+[br]
+[anchor=axiomarc]
+[table padding=10px border="2px solid #1B9285" border-radius=15px][tr]
+[td][color=#1B9285][size=5]Axiom Arc[/size][/color]
+[i]Type: AD Situational Item - [b]Snowball[/b]
+Cost: 3000 Gold[/i][/td]
+[td width=40%][icon=axiom arc size=75][/td][/tr][tr]
+[td]
+[[Axiom Arc]] is a very greedy item. You'll want to pick this up if you crushed laning phase and need an extra boost when entering your mid-game. [[Senna]]'s ultimate has a very long cooldown, so the partial refund on takedown that this item gives is very useful. On top of that, it gives a good amount of ability haste and lethality, both of which [[Senna]] wants a lot of.
+[/td][td]
+[left][size=3]
+[list]
+[*]+55 [color=bc9b56]Attack Damage[/color]
+[*]+25 [icon=time]Ability Haste
+[*]+10 [color=E95E48]Lethality[/color][/list]
+[/left]
+[right]
+UNIQUE Passive – FLUX: Whenever an enemy champion dies within 3 seconds after you've damaged them, refund 25% of your ultimate's total cooldown.[/size][/right]
+[/td]
+[/tr]
+[/table]
 [br]
 [anchor=deathsdance]
 [table padding=10px border="2px solid #6c993f" border-radius=15px][tr][td width=40%][icon=death's dance size=75][/td][td][color=#6c993f][size=5]Death's Dance[/size][/color]
@@ -570,10 +590,10 @@ Cost: 2300 Gold[/i]
 [left][size=3]
 [list]
 [*]+10 [icon=time]Ability Haste
-[*]+300% [color=1E925B]Base Health Regeneration[/color]
+[*]+150% [color=1E925B]Base Health Regeneration[/color]
 [*]+400 [color=1E925B]Health[/color]
 [/list]
-UNIQUE Passive- SACRIFICE: While your Worthy ally is nearby, redirect 15% of the damage they take to you, stops if you are below 30% of your maximum health, and if they are below 50% of their maximum health, gain 35% bonus movement speed while moving towards them.
+UNIQUE Passive- SACRIFICE: While your Worthy ally is nearby, redirect 10% of the damage they take to you and heal for 8% of the damage they deal to champions. If they have less than 30% health, redirect 20% of damage they take to you instead.
 
 UNIQUE Active - PLEDGE: Designate an allied champion as Worthy, forming a tether between you and them. Champions can only be designated as Worthy by one Knight’s Vow at a time (60 second cooldown).
 [/size][/left]
@@ -846,7 +866,7 @@ These are probably [[Senna]]’s most consistent boots and are never a bad purch
 [br]
 Some [[Senna]]s build [[Berserker's Greaves]] instead of [[Ionian Boots of Lucidity]] when they’re ahead. I generally disagree. In the early game [[Senna]] is a caster ADC, not a crit ADC — her power comes from her [[Piercing Darkness]], and having that more often is more important than poorly scaling attack speed. Even with [[Piercing Darkness]] lowering its cooldown on attack, the value you’ll get from [[Berserker's Greaves]] is purely damage, whereas [[Ionian Boots of Lucidity]] is damage and peel. Here's a demonstration of each boots' effect on [[Piercing Darkness]]' cooldown:
 [br][center][youtube]ZG3nZHYw0RU[/youtube][center][br] 
-Where [[Berserker's Greaves]] shine is at the point where your auto attacks do enough damage to offset the efficiency of your ability rotations. If you're fed early and want strong boots, I'd opt for [[Ionian Boots of Lucidity]] most of the time. You can always switch over to [[berserker's greaves] later if you find yourself needing an extra boost to you DPS.
+Where [[Berserker's Greaves]] shine is at the point where your auto attacks do enough damage to offset the efficiency of your ability rotations. If you're fed early and want strong boots, I'd opt for [[Ionian Boots of Lucidity]] most of the time. You can always switch over to [[berserker's greaves] later if you find yourself needing an extra boost to your DPS.
 [br]
 [img=https://i.imgur.com/tN6DDtP.png height=65]
 [br]

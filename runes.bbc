@@ -1,5 +1,5 @@
 [anchor=runes]
-[center][[Senna]] has an incredibly versatile set of runes she can take depending on her situation. In this guide, I have listed my favorite 5, one keystone from each tree. [[Grasp of the Undying]] provides lane sustain and scaling tankiness. [[Glacial Augment]] provides easy lane pressure and makes your skillshots easier to land. [[Dark Harvest]] allows you to dominate mid-late game at the cost of some early game performance. [[Summon Aery]] lets you play passively and help your team carry. [[Fleet Footwork]] gives you the tools to play through poke and keeps you healthy.
+[center][[Senna]] has an incredibly versatile set of runes she can take depending on her situation. In this guide, I have listed my favorite 5, one keystone from each tree. [[Grasp of the Undying]] provides lane sustain and scaling tankiness. [[Dark Harvest]] allows you to dominate mid-late game at the cost of some early game performance. [[Summon Aery]] lets you play passively and help your team carry. [[Fleet Footwork]] gives you the tools to play through poke and keeps you healthy.
 [br]
 [i]Jump to [goto=secondaryrunes]secondary runes[/goto].[/i]
 [br]
@@ -32,34 +32,6 @@ I love [[Revitalize]] as the final rune here. Not only does it synergize with yo
 [img height=65]https://i.imgur.com/tN6DDtP.png[/img]
 [columns]
 [nextcol width=300]
-[table border="2px solid #13e2f4" border-radius=20px padding=10px width=250][tr][td]
-[icon=Glacial augment size=150]
-[h1]GLACIAL AUGMENT[/h1]
-[icon=magical footwear size=50][icon=biscuit delivery size=50][icon=approach velocity size=50]
-[/td][/tr][tr][td][columns]
-[nextcol width=50][icon=time size=30]
-[nextcol width=50][icon=diamond size=30]
-[nextcol width=50][icon=shield size=30]
-[/columns][/td][/tr][/table]
-[nextcol]
-These are some of [[Senna]]'s most versatile runes. [[Glacial augment]] allows you and your ADC to heavily poke repeatedly in lane and make it easier for you to land your [[Piercing darkness]], [[Last embrace]], or even another AA. I recommend these runes if you want to both help your carry and be able to hold your own. You'll miss some damage late game, but your utility in the laning phase is unmatched.
-[/columns]
-[br]
-[indent]
-[table][tr height=100][td width=125][icon=magical footwear size=80][/td][td][left]
-[[Magical footwear]] is the best option in it's row for [[Senna]]. The free Nikes are nice and easy to get early if you play aggressively. [[Perfect Timing]] is something you can consider if you need to rush boots very early, but it's much less valuable because you don't build it into anything other than [[Guardian Angel]], an item you'll likely be building last.[/left]
-[/td][/tr][tr height=100][td][icon=biscuit delivery size=80][/td][td][left]
-[[Biscuit Delivery]] is my favorite rune for the row. The early heath and mana regen can help you sustain and poke until you can back for your first item. The extra permanent mana isn't much but can help if you build a [[manamune]]. [[Future's market]] also isn't terrible, but the extra gold doesn't normally make a difference because your items typically aren't too expensive.
-[/left]
-[/td][/tr][tr height=100][td][icon=approach velocity size=80][/td][td][left]
-[[Approach velocity]] takes the last spot because of its synergy with [[Glacial augment]] and [[Last embrace]]. The ability to easily punish CC'd enemies, and get away with [[Senna]]'s [color=f9f8a7]movement speed[/color] steal is an important part of laning with [[Glacial Augment]]. [[Cosmic insight]] is also a decent option if you want to make a more support-focused build, but I prefer the raw gap closing potential of [[approach velocity]].
-[/left]
-[/td][/tr][/table]
-
-[/indent]
-[img height=65]https://i.imgur.com/tN6DDtP.png[/img]
-[columns]
-[nextcol width=300]
 [table border="2px solid red" border-radius=20px padding=10px width=250][tr][td]
 [icon=dark harvest size=150]
 [h1]DARK HARVEST[/h1]
@@ -71,7 +43,7 @@ These are some of [[Senna]]'s most versatile runes. [[Glacial augment]] allows y
 [/columns]
 [/td][/tr][/table]
 [nextcol]
-These runes are specifically for a botlane matchup you think you can easy bully. [[Senna]] can easily get [[Dark harvest]] stacks with help from her ADC, as her AA -> [[Piercing darkness]] combo can quickly double-tap someone below 50%. The damage potential is insane and turns [[Senna]] into a scaling beast and a force to be reckoned with late game. If you don't get ahead early, though, things aren't going to get better for you and you'll miss the utility of something like [[glacial augment]]. I recommend these runes if you think you can aggressively poke your opponents without putting yourself in too much danger.
+These runes are specifically for a botlane matchup you think you can easily bully. [[Senna]] can easily get [[Dark harvest]] stacks with help from her ADC, as her AA -> [[Piercing darkness]] combo can quickly double-tap someone below 50%. The damage potential is insane and turns [[Senna]] into a scaling beast and a force to be reckoned with late game. If you don't get ahead early, though, things aren't going to get better for you. I recommend these runes if you think you can aggressively poke your opponents without putting yourself in too much danger.
 [/columns]
 [br]
 [indent]
@@ -192,7 +164,7 @@ I'm putting [[Legend: Tenacity]] here because it's a better bet for survivabilit
 [table border="2px solid #13e2f4" border-radius=15px padding=10px width=100%][tr height=75][td]Since [[Senna]] doesn't rush boots, [[Magical Footwear]] gives you a functional 300 gold to build boots and even more than that in stats for free. Especially good if you end up building [[Boots of Swiftness]] for extra strong kiting. Consider swapping these for [[Approach Velocity]] if you have an [[Ashe]] or if they're particularly slippery.
 [/td][td width=75][icon=magical footwear size=50][/td][/tr][tr height=75][td]
 [[Biscuit Delivery]] is really the reason to take these runes. The early lane sustain is unmatched and the permanent mana is essentially a bonus. There is no alternative to these if you take [[Inspiration]] secondary. [/td][td width=75][icon=biscuit delivery size=50][/td][/tr]
-[tr][td][br][center]I'm not huge on these. The main benefit of taking [[Inspiration]] primary is having the utility of [[Glacial Augment]]. Still, I see these a lot on [[Senna]]s in the wild, so I've snuck them in here. These are so safe, but the tradeoff of power is immense. Take these if your entire laning phase will be decided within the first 5 minutes or if you got counterpicked into the ground, otherwise, opt for [[Sorcery]].[/center][/td][/tr][/table][/right]
+[tr][td][br][center]I'm not huge on these. The main benefit of taking [[Inspiration]] primary used to be having the utility of old [[Glacial Augment]]. Still, I see these a lot on [[Senna]]s in the wild, so I've snuck them in here. These are so safe, but the tradeoff of power is immense. Take these if your entire laning phase will be decided within the first 5 minutes or if you got counterpicked into the ground, otherwise, opt for [[Sorcery]].[/center][/td][/tr][/table][/right]
 [nextcol width=200]
 [icon=inspiration size=150]
 [/columns]
